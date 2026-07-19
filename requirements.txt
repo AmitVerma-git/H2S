@@ -1,0 +1,3 @@
+# Only needed for the optional natural-language explanation layer.
+# The assistant is fully functional without it (see src/assistant.py fallback).
+anthropic>=0.40.0
